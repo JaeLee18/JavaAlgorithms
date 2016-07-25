@@ -3,4 +3,7 @@ Java Algorithm
 
   * Java Algorithm
   
-  #1. Sorting (Bubble Sort)
+  #1. Sorting
+    - Bubble Sort
+    - Selection Sort
+    - Merge Sort
